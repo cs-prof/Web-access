@@ -1,3 +1,3 @@
 # Web-access
 Web access
-Code for analyuzing HTTPD logs
+Code for analyzing HTTPD logs
